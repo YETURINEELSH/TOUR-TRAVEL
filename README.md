@@ -16,3 +16,9 @@ This is a responsive **Tour & Travel Website** built using **HTML, CSS, and Java
 - JavaScript (Vanilla JS)
 
 ## 📂 Project Structure
+/tour-travel-website/
+│
+├── index.html
+├── style.css
+├── script.js
+└── /images/
